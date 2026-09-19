@@ -1,0 +1,6 @@
+{
+  "name": "HabitGrid - Spreadsheet Habit Tracker",
+  "description": "Responsive spreadsheet habit tracker with Formula Ledger, Accuracy Ledger, Analytics Overview, and dark mode toggler.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
